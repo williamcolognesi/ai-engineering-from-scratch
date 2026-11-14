@@ -9,13 +9,13 @@ Objetivo de construção ao final: "Ainda não sei". Vai ficar claro ao longo do
 ## Placement
 - Date: 2026-11-14
 - Score: 3/10 (Math & Statistics 1/2, Classical ML 0/2, Deep Learning 0/2, NLP & Transformers 0/2, Applied AI 2/2)
-- Entry point: Phase 1: Math Foundations
+- Entry point: Phase 0: Setup & Tooling (Python ainda não instalado; a matemática da Fase 1 vem logo depois)
 - Pace: ~2/week
 
 ## Path
 | Phase | Name | Status | Est. hours |
 |-------|------|--------|------------|
-| 0 | Setup & Tooling | Skip | -- |
+| 0 | Setup & Tooling | Do | 16 |
 | 1 | Math Foundations | Do | 23 |
 | 2 | ML Fundamentals | Do | 26 |
 | 3 | Deep Learning Core | Do | 15 |
@@ -35,7 +35,7 @@ Objetivo de construção ao final: "Ainda não sei". Vai ficar claro ao longo do
 | 17 | Infrastructure & Production | Do | 34 |
 | 18 | Ethics, Safety & Alignment | Do | 31 |
 | 19 | Capstone Projects | Do | 620 |
-| | **Total (Review + Do)** | | **1154** |
+| | **Total (Review + Do)** | | **1170** |
 
 ## Progress log
 | Date | Lesson | Quiz | Note |
