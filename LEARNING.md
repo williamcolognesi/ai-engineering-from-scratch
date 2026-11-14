@@ -41,5 +41,6 @@ Objetivo de construção ao final: "Ainda não sei". Vai ficar claro ao longo do
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
 | 2026-11-14 | 00/01 Dev Environment (setup) | -- | WSL2 Ubuntu + uv; verify.py --route beginner: 2/2 required checks passed (Python 3.12.16, Git 2.43.0) |
+| 2026-11-14 | 00/02 Git & Collaboration | 3/3 | Fez o ciclo add/commit/push no branch my-progress; resolveu login com gh auth; descobriu que o .gitignore do repo já ignora checkpoints (última regra vence). |
 
 ## Review queue
