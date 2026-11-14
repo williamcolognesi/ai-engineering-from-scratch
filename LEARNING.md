@@ -40,5 +40,6 @@ Objetivo de construção ao final: "Ainda não sei". Vai ficar claro ao longo do
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-11-14 | 00/01 Dev Environment (setup) | -- | WSL2 Ubuntu + uv; verify.py --route beginner: 2/2 required checks passed (Python 3.12.16, Git 2.43.0) |
 
 ## Review queue
